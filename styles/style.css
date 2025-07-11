@@ -90,3 +90,88 @@ header.section-width{
     color: white;
     margin-left: 640px;
 }
+
+
+
+/* webflow section */
+
+
+
+.section-webflow{
+    display: flex;
+    margin: 100px auto;
+    max-width: 1140px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.webflow-head{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+
+}
+
+.webflow-para{
+    font-weight: 400;
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+}
+
+.webflow-btn{
+    padding: 12px 36px;
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.webflow-img{
+    border-radius: 48px;
+}
+
+
+
+/* joined Thousands of productive users styles */
+
+
+
+.productive{
+
+    max-width: 1140px;
+    margin: 50px auto;
+    background-color: rgba(78, 71, 255, 0.1);
+    border: 2px solid rgba(78, 71, 255, 0.1);
+    border-radius: 10px;
+   
+}
+
+.productive-content {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 0px;
+    margin-bottom: 60px;
+    
+}
+
+
+.productive-heading{
+
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.active-user{
+    font-size: 80px;
+    font-weight: 700;
+    color: #4E47FF;
+    margin-bottom: 0px;
+}
+
+.active-para{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
