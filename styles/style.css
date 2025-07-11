@@ -273,3 +273,118 @@ header.section-width{
     border-radius: 48px;
 }
 
+
+/* Let's get in touch styles */
+
+.user-login{
+    max-width: 1140px;
+    margin: 50px auto;
+    margin-top: 110px;
+}
+.login-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.touch-title{
+    font-size: 97px;
+    font-weight: bold;
+}
+
+
+.login-email{
+    padding: 10px 32px;
+    box-shadow: 0px 4px 4px 0px #00000000;
+    border: 1px solid rgb(242, 237, 237);
+    border-radius: 10px;
+    
+}
+
+.login-msg{
+    padding: 30px 32px;
+    box-shadow: 0px 4px 4px 0px #00000000;
+    border: 1px solid rgb(242, 237, 237);
+    border-radius: 10px;
+    
+}
+
+.login-btn{
+    padding: 20px 32px;
+    box-shadow: 0px 4px 4px 0px #00000000;
+    border: 1px solid rgb(242, 237, 237);
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: #4E47FF;
+    color: white;
+    padding-right: 68px;
+    padding-left: 101px;
+    text-align: center;
+}
+
+
+
+.email-content{
+    font-size: 18px;
+    font-weight: 500;
+    /* margin: 19px 0px; */
+}
+
+.label-content{
+    margin: 10px 10px;
+    
+}
+
+
+
+
+/* footer styles */
+
+
+
+.end-content{
+    max-width: 1440px;
+    margin: 50px auto;
+    margin-top: 110px;
+    text-align: center;
+     box-shadow: 0px 4px 4px 0px #00000000;
+     border: 1px solid rgb(242, 237, 237);
+     border-radius: 10px;
+}
+
+
+
+.end-logo{
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+    margin-bottom: 0;
+}
+
+.end-para{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(137, 135, 161);
+}
+
+.nav-item{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
+
+.nav-item li{
+    list-style: none;
+}
+
+.nav-item li a{
+    text-decoration: none;
+}
+
+.item{
+    display: flex;
+    gap: 40px;
+    text-align: center;
+}
+
