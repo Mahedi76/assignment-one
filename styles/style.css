@@ -175,3 +175,101 @@ header.section-width{
     margin-left: 20px;
 }
 
+
+
+/* Loved designers styles */
+
+.design{
+    max-width: 1140px;
+    margin: 50px auto;
+    margin-top: 100px;
+}
+
+
+.designer{
+    background-color: white;
+    padding: 24px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px #000000;
+    border: 1px solid rgb(242, 237, 237);
+
+}
+
+.design-heading{
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+    text-shadow: #00000000;
+    
+}
+
+.design-pic{
+    border-radius: 9999px;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0px 4px 4px 0px #00000000;
+}
+
+.designer-owner{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(117, 117, 117);
+}
+
+.designer-para{
+    color: rgb(30, 30, 30);
+}
+
+.designer-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+
+/* ready to focus better styles */
+
+.focus{
+    max-width: 1140px;
+    margin: 50px auto;
+    margin-top: 110px;
+    box-shadow: 0px 4px 4px 0px #00000027;
+    border: 1px solid rgb(242, 237, 237);
+    text-align: center;
+    padding-top: 71px;
+    padding-bottom: 71px;
+    border-radius: 10px;
+
+}
+
+.focus-title{
+    font-size: 50px;
+    font-weight: 700px;
+    color: rgb(0, 0, 0);
+}
+
+.focus-para{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.focus-btn{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: rgb(78, 71, 255);
+    padding: 12px 36px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.focus-img{
+    border-radius: 48px;
+}
+
